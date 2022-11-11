@@ -1,2 +1,2 @@
 # School_District_Analysis
-Analysis of School District Data
+The jupyter notebook is in the Student_Data_Challenge/Challenge_Work folder
